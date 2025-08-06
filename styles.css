@@ -1,0 +1,17 @@
+body {
+    font-family: 'Chakra Petch', monospace;
+}
+h1 {
+    font-family: 'Orbitron', sans-serif;
+}
+.main-text a {
+    color: #2563eb; /* A nice blue */
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    border-bottom: 1px solid #dbeafe;
+}
+.main-text a:hover {
+    color: #1d4ed8;
+    border-bottom-color: #93c5fd;
+}
