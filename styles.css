@@ -4,6 +4,9 @@ body {
 h1 {
     font-family: 'Orbitron', sans-serif;
 }
+
+/* Links */
+
 .main-text a {
     color: #2563eb; /* A nice blue */
     text-decoration: none;
